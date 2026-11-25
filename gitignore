@@ -1,0 +1,17 @@
+# ВАЖЛИВО: тут ваші персональні дані — у репозиторій їх класти не можна
+pay_config.json
+pay_session*
+*.session
+*.session-journal
+pay_app.log
+
+# результати збірки
+build/
+dist/
+*.spec
+*.exe
+*.old
+*.new
+*.part
+*.bak
+__pycache__/
